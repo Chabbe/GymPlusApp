@@ -1,0 +1,17 @@
+.header {
+    background-color: orange;
+    height: 10vh;
+    .icon {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        height: 6vh;
+    }
+    span {
+        position: absolute;
+        right: 25px;
+        top: 25px;
+        font-size: 2rem;
+        color: #000; //to be white
+    }
+}

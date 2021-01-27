@@ -1,0 +1,9 @@
+html {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  font-family: 'Anonymous Pro', monospace;
+  font-weight: 700;
+}
